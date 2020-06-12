@@ -1,1 +1,1 @@
-web: gunicorn Xlock.app:app
+web: gunicorn xlock.app:app
