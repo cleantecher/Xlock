@@ -67,3 +67,6 @@ def buyingstatus():
 @app.route("/sellingstatus")
 def sellingstatus():
     return render_template ("sellingstatus.html")
+
+if __name__=='__main__':
+    app.run(debug=True)
