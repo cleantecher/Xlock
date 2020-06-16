@@ -269,6 +269,7 @@ p {
 }
 .roundbutton:hover {
     background-color:#3B3838;
+    outline: none;
 }
 
 
